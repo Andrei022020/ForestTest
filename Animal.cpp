@@ -8,7 +8,7 @@ public:
 	string TypeAnimal;
 	string Name;
 	int warehouse = 0;
-	int warehouse2 = 0;
+//	int warehouse2 = 0;
 	string food;
 
 	Animal()
