@@ -9,6 +9,7 @@ public:
 	string Name;
 	int warehouse = 0;
 //	int warehouse2 = 0;
+	int warehouse3 = 0;
 	string food;
 
 	Animal()
